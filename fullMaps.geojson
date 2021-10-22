@@ -126914,6 +126914,686 @@
           47.42808726171425
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Carré Senart",
+        "shopCode": 77,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "12 rue Carré Senart 77200 CARRE SENART",
+        "url": "https://www.cultura.com/les-magasins/cultura-venette.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5400733947753906,
+          48.615931113993646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Stains",
+        "shopCode": 93,
+        "fill": "#ff6b6b",
+        "stroke": "#ffffff",
+        "fill-opacity": 0.8,
+        "stroke-opacity": "",
+        "adress": "15 rue Jean Ferrat 93240 STAINS",
+        "url": "https://www.cultura.com/les-magasins/cultura-beauvais.html",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375514507293701,
+          48.94849177508471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "shop": "Pontoise",
+        "shopCode": 75,
+        "url": "https://www.cultura.com/les-magasins/cultura-montlucon.html",
+        "adress": "23 rue de Lourd PONTOISE",
+        "region": "Île-de-France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1018218994140625,
+          49.04968264823436
+        ]
+      }
     }
   ]
 }
